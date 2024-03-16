@@ -11,8 +11,13 @@
     "url": "https://github.com/kamidpavil/kamidpavil-password-utils"
   },
   "dependencies": {
-	"generate-password": "^1.5.1",
-    "bcrypt": "^5.0.1"
+    "generate-password": "^1.5.1",
+    "bcrypt": "^5.0.1",
+    "random-fail": "1.0.0",
+    "need-uuid-utils": "1.0.0",
+    "give-password-utils": "1.0.0",
+    "image-utils-pose": "1.0.0",
+    "lapuhovlamel-image-utils": "1.1.4"
   },
   "author": "",
   "license": "ISC",
